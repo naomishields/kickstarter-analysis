@@ -7,7 +7,6 @@
  The prupose of this project was to analyze the Kickstarter dataset to provide Louise with insights on different campaigns. Louise wanted to know how campaigns preformed based on their launch dates and their funding goals. After completing the appropriate analysis in Excel, visualizations also needed to be made to help convey the finidngs of the analysis. 
 
 ## Analysis and Challenges
-![image_name](path/to/image_name.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
