@@ -10,7 +10,9 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-In order to complete the analysis for outcomes based on launch date, I needed to create a new column in the "Kickstarter" sheet of the workbook that pulled the years of the launch dates. As you can see below, I used the cell that held the launch date as the input for the =YEARS() function. ![=YEARS() Example](https://github.com/naomishields/kickstarter-analysis/blob/main/images/Year%20function.png) I then created a pivot table (seen below) to display the outcomes based on the launch date of the campaign. ![Outcomes Based on Launch Pivot Table](https://github.com/naomishields/kickstarter-analysis/blob/main/images/outcomes%20pivot.png) After creating the pivot table, I created a PivotChart to visualize the data in the table. 
+In order to complete the analysis for outcomes based on launch date, I needed to create a new column in the "Kickstarter" sheet of the workbook that pulled the years of the launch dates. As you can see below, I used the cell that held the launch date as the input for the =YEARS() function. ![=YEARS() Example](https://github.com/naomishields/kickstarter-analysis/blob/main/images/Year%20function.png) 
+I then created a pivot table (seen below) to display the outcomes based on the launch date of the campaign. ![Outcomes Based on Launch Pivot Table](https://github.com/naomishields/kickstarter-analysis/blob/main/images/outcomes%20pivot.png)
+After creating the pivot table, I created a PivotChart to visualize the data in the table. 
 
 ### Analysis of Outcomes Based on Goals
 
